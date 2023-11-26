@@ -66,6 +66,7 @@ Check all the gates following the same procedure.
 ### Logic symbol & Truthtable
 ![EX1_TT](https://github.com/MOHAMEDAHSAN/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139331378/0143a6f1-e322-40e0-a324-41617cb497df)
 
+<br/>
 
 ### RTL realization
 
