@@ -72,6 +72,9 @@ Check all the gates following the same procedure.
 
 ![EX1_RTL](https://github.com/MOHAMEDAHSAN/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139331378/8ce9dacc-dc9d-4c4e-879e-fa0856be7104)
 
+### Timing Diagram
+![EX1_TIMING](https://github.com/MOHAMEDAHSAN/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139331378/07cf4522-49c2-421a-a13c-33bea8b9eee8)
+
 
 ## Result:
 
